@@ -1,6 +1,6 @@
 ---
 title: "GitHub ID 변경"
-excerpt: "변경은 쉬우나 수습이 복잡하다."
+excerpt: "바꾸는 건 선택이지만 수습은 너의 몫이다."
 comments: true
 
 categories:
