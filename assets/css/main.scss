@@ -7,7 +7,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;500;700&display=swap');
 
 html { // 폰트 크기 override
