@@ -26,7 +26,7 @@ https://github.com/diligent-ludens/diligent-ludens.github.io
 
 근데 ID를 바꾸려 하자 경고문이 촤르륵 뜨며 주의사항을 알려준다.   
 자세히 적힌 주의사항은 아래 링크에 있다.   
-https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/changing-your-github-username
+<https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/changing-your-github-username>
 
 읽어 보면 ID 변경 시 레퍼런스도 자동으로 새 ID로 repository에 적용된다 한다.   
 이제 기존 ID가 쓰인 링크를 클릭하면 404 페이지가 뜨니 링크도 새 ID로 갱신해줘야 한다.
@@ -36,7 +36,7 @@ https://help.github.com/en/github/setting-up-and-managing-your-github-user-accou
 
 설마 다른 사람이 쓸까 싶은 ID지만, 만약을 대비해 업데이트하기로 했다.
 
-https://help.github.com/en/github/using-git/changing-a-remotes-url   
+<https://help.github.com/en/github/using-git/changing-a-remotes-url>   
 여기에 URL 업데이트로 사용하는 명령어 `git remote set-URL`와 설명이 들어 있다.
 
 ### 실행
