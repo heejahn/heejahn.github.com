@@ -46,6 +46,7 @@ Deletion with compacing은 쓰레기 객체를 제거한 다음 살아 있는 �
 
 이제 세 영역의 특징에 대해 가볍게 봤으니까 어떻게 작동하는 지를 본다.
 
+<b>Step</b>   
 1번째 : 새 객체는 eden에 할당되며, 2개의 survivor space는 빈 채로 시작한다.   
 2번째 : eden이 어느 정도 차면 minor gc가 발동한다.   
 3번째 : 살아 있는 객체는 첫번째 survivor space(S0)로 가고 참조되지 않는 객체는 없어진다.   
