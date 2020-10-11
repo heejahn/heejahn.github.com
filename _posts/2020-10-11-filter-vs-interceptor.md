@@ -1,3 +1,13 @@
+---
+title: "Filter vs Interceptor"
+excerpt: "비슷한 두 기능의 차이에 대하여"
+comments: true
+
+categories:
+  - Spring
+last_modified_at: 2020-10-11
+---
+
 ### 개요
 Spring 기반 web application을 공부하면서 filter를 검색하면 같이 나오는 게 interceptor입니다. filter는 자바 서블릿에서 소개되는 기능이고, interceptor는 Spring에서 제공하는 기능입니다. 둘 다 요청과 응답 정보를 변경하거나 흐름을 처리할 수 있습니다.
 filter와 interceptor를 사용하면 애플리케이션 전체에 한 번에 조건을 걸 수 있으니 나중에 변경 사항이 생겨도 수정할 부분이 적어져 유지보수에 탁월하다는 장점이 있습니다. 그렇다면 둘의 차이점은 정확히 뭘까요.
